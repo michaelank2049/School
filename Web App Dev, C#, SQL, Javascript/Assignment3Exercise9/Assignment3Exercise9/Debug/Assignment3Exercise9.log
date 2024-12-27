@@ -1,0 +1,3 @@
+﻿  Assembling Main.asm...
+Main.asm(4): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Assignment3Exercise9.vcxproj -> C:\Users\micha\source\repos\Assignment3Exercise9\Debug\Assignment3Exercise9.exe
