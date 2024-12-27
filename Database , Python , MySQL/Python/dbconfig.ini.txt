@@ -1,0 +1,6 @@
+[mysql]
+host = localhost
+database = swim
+user = lankfordm0772
+password = Aggie1510800
+port = 3306
