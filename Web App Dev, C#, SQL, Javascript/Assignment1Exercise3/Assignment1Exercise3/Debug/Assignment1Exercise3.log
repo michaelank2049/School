@@ -1,0 +1,7 @@
+﻿  Assembling Main.asm...
+Main.asm(4): warning A4011: multiple .MODEL directives found : .MODEL ignored
+Main.asm(16): error A2022: instruction operands must be the same size
+Main.asm(17): error A2022: instruction operands must be the same size
+Main.asm(18): error A2022: instruction operands must be the same size
+Main.asm(19): error A2022: instruction operands must be the same size
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Main.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /TaMain.asm" exited with code 1.
