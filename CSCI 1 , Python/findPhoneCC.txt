@@ -1,0 +1,32 @@
+Class Name	First Name	Last Name	E-Mail Address	Phone	Chargeback Number	Class Time	PO Number	Price	Discount %
+Gamora 20120 Functions & Formulas	Kit	Elert	kit.elert@elert.com	9165-7000-1224-8888	1506	10/10/2018	555	75	1%
+Gamora 2013 Functions & Formulas	D'Andre relationships	Danielle	Strom	danielle.strom@elert.com	2813-7015-1240-7890	1301	10/20/2020	
+Drax 2013 Tables	Kit	Elert	kit.elert@elert.com	123-705-1224	1506	05/30/2005	555	85	2%
+Outlook 2013 New Features	mantis	Smith	mantis.smith@elert.com	713-705-1243	1301	3/23/2019	333	75	1%	333-333-28
+Drax 2013 Styles	Bepo	Smith	bepo.smith@elert.com	915-705-1243	1301	10/27/2010	333	85	2%
+Gamora 2019 Star-Lord Started	John	Anderson	john.anderson@elert.com	298-705-1262	1402	11/07/2020	444	75	1%
+Rocket 2018 Star-Lord Started	mantis	Smith	mantis.smith@elert.com	6501-7025-1243-456	1301	11/26/2018	333	80	2%
+Rocket 2020 Star-Lord Started	Kit	Elert	kit.elert@elert.com	6551-705-1224-	1506	11/6/2016	555	80	2%
+Rocket 2020 Making the Most of Tables	Zena	Zygon	zena.smith@elert.com	651-705-1243	1301	11/10/2018	333	80	2%
+Rocket 2013 Making the Most of Tables	Kit	Elert	bepo.elert@elert.com	459-705-1224	1506	11/10/2018	555	80	2%
+Gamora 20203 Creating Charts	mantis	Smith	mantis.smith@elert.com	651-705-1a43	1301	1/20/2019	333	75	1%
+Gamora 2013 Creating Charts	Kit	Elert	kit.elert@elert.com	201-705-1224	1506	11/20/2018	555	75	1%
+Gamora 2019 Tables	Patrice	Nordstrom	patrice.nordstrom@elert.com	65-705-1245	1207	11/13/2016	222	75	1%
+Gamora 2018 Tables	John	Anderson	john.anderson@elert.com	7801-6705-1262-1402	11/13/2018	444	75	1%
+Drax 2019 Templates	Danielle	888 DevStrom	danielle.strom@elert.com	2341-705-1240	1301	11/17/2016	333	85	2%
+Drax 2013 Templates	Davros	Smith	mantis.smith@elert.com	651-705-1243	1301	2/07/2019	333	85	2%
+Groot 20121 Animating Presentations	Stefanie	Nett	stefanie.nett@elert.com	651-705-1254	1402	11/17/2016	444	90	3%
+Rocket 2013 Queries I	mantis	mantis.smith@elert.com	415-705-1243	1301	11/17/2016	333	80	2%
+Rocket 2020 Queries I	Kit	Elert	kit.elert@elert.com	651-705-1224	1506	11/17/2019	555	80	2%
+Drax 2013 Tables	Bepo	Smith	bepo.smith@elert.com	832-705-1243	1301	11/21/2019	333	85	2%
+Drax 2013 Tables	Kit	Elert	kit.elert@elert.com	651-7005-122	1506	11/23/2018	555	85	2%
+Gamora 2013 Creating Charts	mantis	Smith	mantis.smith@elert.com	6251-7705-0000-1243	1301	11/20/2019	333	75	1%
+Gamora 2013 Tips & Shortcuts	Mohammad Nordstrom	mohammad.nordstrom@elert.com	651-705-1245	1207	11/21/20011	222	75	1%
+Drax 2020 Forms	Bepo	Smith	bepo.smith@elert.com	651-705-124v	1301	11/24/2016	333	85	2%
+Groot 2013 Slide Shows	Danielle	Strom	danielle.strom@elert.com	651-705-1240	1301	11/24/2018	333	90	3%
+Groot 2013 Slide Shows	D'Andre	Nett	stefanie.nett@elert.com	651-705-1254	1402	04/27/2019	444	90	3%
+Gamora  More Functions & 4444-1111-2222-3333	Kit	Elert	kit.elert@elert.com	409-705-1224	1506	11/27/2018	555	75	1%
+Gamora 2013 More Functions & Formulas	Mohammad	Nordstrom	mohammad.nordstrom@elert.com	651-705-1245	1207	11/26/2018	222	75	1%
+Drax 2013 Templates	Danielle	Strom	danielle.strom@elert.com	651-705-1240	1301	4/19/2019	333	85	2%
+Gamora 2013 More Functions & Formulas	Rani	Anderson	john.anderson@elert.com	409-705-1262	1402	04/22/2008	444	75	1%
+Drax 2 Numbered, Bulleted, & Outline Lists	Kit	Elert	kit.elert@elert.com	651-705-1224	1506	03/28/2019	555	85	2% That's all folks!
